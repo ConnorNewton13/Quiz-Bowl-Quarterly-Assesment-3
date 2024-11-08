@@ -10,7 +10,7 @@ Score Tracking: The quiz tracks the user's score and displays it at the end.
 Database-Driven: Questions are stored and fetched from an SQLite database.
 
 Database Setup
-The questions are stored in an SQLite database called quiz_bowl.db. You need to ensure the database is set up with the required tables and data.
+The questions are stored in an SQLite database called quiz_bowl.py. You need to ensure the database is set up with the required tables and data.
 
 Steps to Initialize Database
 Download or clone this project.
